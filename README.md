@@ -1,2 +1,2 @@
 # Sigma
-This a demo froGit and Github class
+This a demo froGit and Github class.
